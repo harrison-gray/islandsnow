@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar .bi {
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #292929;
+    color: white;
+    padding: 3rem 0;
+}
+
+footer hr {
+    background-color: white;
+    opacity: 0.3;
+}
+
+/* Dropdown styling */
+.dropdown-toggle {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    min-width: 200px;
+    padding: 1rem;
+}
